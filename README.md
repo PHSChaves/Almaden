@@ -24,7 +24,7 @@ Almaden
 
 ### Prerequisites
 
-Before you start, you will need to have at your PC the following tools:
+Before you start, you will need to have at your PC the following tools:<br>
 [Git](https://git-scm.com).<br>
 [VSCode](https://code.visualstudio.com/).
 

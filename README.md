@@ -42,7 +42,8 @@ $ cd password-manager
 $ yarn
 
 # Enter at the /packages/web and run
-$ yarn
+$ yarn after that you should run 
+$ yarn prisma generate (if you are using NPM run: npx prisma generate)
 
 # Start the project
 $ yarn dev
